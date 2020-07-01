@@ -1,2 +1,2 @@
 # Esercitazioni-Informatica-Teorica
-List of exercises for the Theoretical CS course ( University of Rome: "Tor Vergata" 2018/2019)
+List of exercises (ITA) for the Theoretical CS course ( University of Rome: "Tor Vergata" 2018/2019)
