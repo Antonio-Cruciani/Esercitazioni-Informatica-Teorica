@@ -1,3 +1,4 @@
+<img src="https://github.com/Antonio-Cruciani/Esercitazioni-Informatica-Teorica/blob/master/img/TuringM.jpg?v=3&s=200" title="Turing Machine" alt="TuringM" height=256 width=386>
 # Esercitazioni-Informatica-Teorica
 List of exercises (ITA) for the Theoretical CS course ( University of Rome: "Tor Vergata" 2018/2019)
 
